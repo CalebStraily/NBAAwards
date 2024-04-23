@@ -6,4 +6,4 @@ You will need to change the file path defined at line 138 in order for the progr
 
 Make sure to add the full file path of where your .csv file is when you download it to your PC.
 
-Feel free to move the .csv file to your desktop for ease of access. 
+Feel free to move the .csv file to your desktop for a simpler file path. 
